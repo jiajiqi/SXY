@@ -4,7 +4,7 @@
   "private": true,
   "proxy": "http://localhost:8080",
   "dependencies": {
-    "antd": "^3.25.1",
+    "antd": "^3.25.2",
     "babel-plugin-import": "^1.12.2",
     "customize-cra": "^0.8.0",
     "react": "^16.11.0",

@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from'react-router-dom';
-import {Layout,Row, Col,Input,Carousel,Icon} from 'antd';
+import {Layout,Row, Col,Input,Carousel,Icon} from 'antd'
 
 var HomePageCss= require('./homepage.css')
 export default class HomePage extends React.Component{
